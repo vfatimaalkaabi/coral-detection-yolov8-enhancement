@@ -1,0 +1,9 @@
+ultralytics==8.4.207
+torch
+torchvision
+opencv-python
+numpy
+pandas
+matplotlib
+PyYAML
+roboflow
