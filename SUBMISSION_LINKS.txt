@@ -1,0 +1,11 @@
+GitHub repository:
+https://github.com/vfatimaalkaabi/coral-detection-yolov8-enhancement
+
+Master experiment notebook:
+https://colab.research.google.com/drive/1H8_SP3c7qteVTqQVi3kU9xG3YCX4H72q?usp=sharing
+
+Live demo notebook:
+https://colab.research.google.com/drive/1vPiTnGlELVAH_C8jWHm4pTXyULWy4TK3?usp=sharing
+
+Shared Drive folder: datasets, model weights, saved results, figures, and demo backups:
+https://drive.google.com/drive/folders/13puEzl_o0rgRQ8pv4c54JHJqwjLhljUx?usp=share_link
